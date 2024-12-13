@@ -104,4 +104,4 @@ Every action—from analysis to execution—is logged for tracking and debugging
 
 Unlock the power of **Magic Eden NFT trading** and dominate the marketplace with ease. With Thin Floor Strategy, you'll always stay ahead of the curve in the rapidly evolving NFT market.  
 
-Ready to take the leap?For more advance development, contact t.me/@OxEight33n  💎✨
+This script is obviously incomplete, I will open source it by accident later, For more advance development, contact t.me/@OxEight33n  💎✨
