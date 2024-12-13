@@ -1,4 +1,6 @@
-# Magic Eden Trading 🚀  
+# Magic Eden Trading 🚀 
+
+<img width="1427" alt="Screenshot 2024-12-14 at 01 32 23" src="https://github.com/user-attachments/assets/cb8931fd-1fff-47ed-98ff-b59b0b45ae19" />
 
 ## 🧩 **How Thin Floor Strategy Benefits me?**  
 - **Focus on High-Value Opportunities:** Identify thin floors to maximize profitability.  
